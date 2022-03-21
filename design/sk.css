@@ -1,0 +1,51 @@
+#d1{
+	text-align:center;
+	color: black;
+	font-family: inherit;
+	font-size: 50px;
+	border: 1px pink;
+	background-color:tomato;
+
+}
+ul,ol{
+	text-align: center;
+	border-color: darkred;
+	list-style-position: inside;
+	background-color: geree;
+}
+
+<table style="width: 100%;">
+  <tr>
+  	<th>NO</th>
+  	<th>model</th>
+     <th>speed</th>
+     <th>price</th>
+  </tr>
+
+  <tr>
+  	<td>1</td>
+  	<td>PULSAR NS</td>	
+  	<td>200</td>
+     <td>₹1.41 lakhs</td>
+
+  </tr>
+
+<tr>
+   <td>2</td>
+   <td>PULSAR </td>
+   <td>220f</td>
+   <td>₹1.38 lakhs</td>
+</tr>
+
+  <tr>  
+     <td>3</td> 
+     <td>PULSAR RS </td>
+  	<td>200</td>
+     <td>₹1.53 lakhs</td>
+</tr>
+
+</ol>
+</table>
+
+<h2>pulsar is <span class="note" >very buget friendley</span> bike</h2>
+
